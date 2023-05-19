@@ -25,7 +25,7 @@ namespace JWT_Token.Models
     {
         public static string GetConnectionString()
         {
-            string gv_GlobalString = "Server=154.61.76.161;Network Library=DBMSSOCN;Initial Catalog=signageshoppy;User Id=sa;Password=monarch@1";
+            string gv_GlobalString = "Server=**********;Network Library=DBMSSOCN;Initial Catalog=*********;User Id=******;Password=**********";
             return gv_GlobalString;
         }
     }
